@@ -41,7 +41,7 @@ The code seems well-organized, following conventions for variable names, functio
 
 
 GitHub & Version Control:
-committed your changes, added your files, and pushed them to GitHub repository. — ✔️
+committed changes, added files, and pushed them to GitHub repository. — ✔️
 
 Conclusion
 This project demonstrates using SQLAlchemy for database interaction, Flask for building APIs, and Pandas and Matplotlib for climate data analysis. It provides valuable insights into Honolulu's weather patterns and offers an easy-to-use API for accessing the data.
