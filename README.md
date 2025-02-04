@@ -6,7 +6,7 @@ Repository Creation:
  created a new repository called sqlalchemy-challenge — ✔️
 Directory Structure:
 
-created a folder for the challenge (e.g., SurfsUp) and placed the necessary files (Jupyter notebook, app.py) inside. — ✔️
+created a folder for the challenge (SurfsUp) and placed the necessary files (Jupyter notebook, app.py) inside. — ✔️
 
 Jupyter Notebook:
 Followed the steps for climate data analysis in the notebook, including:
@@ -22,8 +22,8 @@ set up Flask routes to:
 /api/v1.0/stations for stations.
 /api/v1.0/tobs for temperature observations.
 /api/v1.0/<start> and /api/v1.0/<start>/<end> for dynamic date range queries. — ✔️
-Data Analysis & Plotting:
 
+Data Analysis & Plotting:
 performed precipitation and station analysis, plotted results, and printed summary statistics. — ✔️
 
 
